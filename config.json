@@ -1,0 +1,27 @@
+{
+    "email": {
+        "user": "XXXXXXXXXX",
+        "pass": "XXXXXXXXXX"
+    },
+    "otp": {
+        "accessKeyId": "XXXXXXXXX",
+        "secretAccessKey": "XXXXXXXXX"
+    },
+    "db": {
+        "url": "mongodb+srv://osteen:osteen@osteen-sqsvi.gcp.mongodb.net/test?retryWrites=true&w=majority"
+    },
+    "googleUpload": {
+        "projectId": "expanded-pride-248906",
+        "keyFilename": "./demo-1406b6aa2133.json",
+        "bucketName": "osteenfiles"
+    },
+    "siteUrl": "https://osteen.com",
+    "forgot": "https://osteen.com/forgotpassword",
+    "verification": "https://osteen.com/user/verification",
+    "login": "https://osteen.com/login",
+    "google": {
+        "clientID": "",
+        "clientSecret": "",
+        "callbackURL": ""
+    }
+}
